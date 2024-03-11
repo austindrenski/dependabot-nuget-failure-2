@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageVersion Include="AWSSDK.Core" />
+    <PackageVersion Include="AWSSDK.DynamoDBv2" />
+    <PackageVersion Include="AWSSDK.S3" />
+  </ItemGroup>
+
+</Project>

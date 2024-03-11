@@ -1,0 +1,13 @@
+<Project>
+
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageVersion Include="AWSSDK.Core" Version="3.7.302.15" />
+    <PackageVersion Include="AWSSDK.DynamoDBv2" Version="3.7.301.18" />
+    <PackageVersion Include="AWSSDK.S3" Version="3.7.305.30" />
+  </ItemGroup>
+
+</Project>
